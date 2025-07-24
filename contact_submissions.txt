@@ -1,0 +1,18 @@
+# Contact Form Submissions
+
+This file stores all contact form submissions from the portfolio website.
+
+Format:
+=== Contact Form Submission ===
+Date: [ISO timestamp]
+Name: [Visitor's name]
+Email: [Visitor's email]
+Message: [Visitor's message]
+================================
+=== Contact Form Submission ===
+Date: 2025-07-24T21:03:01.201042
+Name: Anas Stark
+Email: mohdanas8725@gmail.com
+Message: Hello, myself you buddy.
+================================
+

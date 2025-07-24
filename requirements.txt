@@ -1,0 +1,15 @@
+# Portfolio Website Requirements
+# This project uses Python's built-in modules only
+# No external dependencies required
+
+# Built-in modules used:
+# - http.server (for serving the website)
+# - socketserver (for TCP server)
+# - urllib.parse (for form data parsing)
+# - datetime (for timestamps)
+# - os (for file operations)
+
+# To run the portfolio:
+# python app.py
+
+# The server will start on http://localhost:8000
